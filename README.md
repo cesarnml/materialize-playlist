@@ -17,9 +17,9 @@ Notes on Materialize CSS Playlist by The Net Ninja
 
 ## Progress
 
-- [ ] Lesson 01: Intro
-- [ ] Lesson 02: Setup
-- [ ] Lesson 03: Basic Text Styles
+- [X] ~~*Lesson 01: Intro*~~ [2018-06-15]
+- [X] ~~*Lesson 02: Setup*~~ [2018-06-15]
+- [X] ~~*Lesson 03: Basic Text Styles*~~ [2018-06-15]
 
 ## Lesson 01: Intro
 
@@ -34,3 +34,7 @@ Installation details:
 - `npm install materialize-css@next`
 
 ## Lesson 03: Basic Text Styles
+
+- font-size uses `rems`
+- `.container` ➡ responsive container
+- `.flow-text` ➡ responsive text
